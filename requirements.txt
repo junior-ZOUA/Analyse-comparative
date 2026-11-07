@@ -1,0 +1,6 @@
+pandas # permet de lire les fichiers csv
+# aussi de créer des tableaux et de faire des calculs
+openpyxl # Il permet de décoder Excel, c'est l'élément indispensable pour 
+# pandas de créer les tableaux et faire les calculs
+rapidfuzz # il permet de faire les comparaisons approximatives et 
+# de relier les mots mal écrit des boutique au catalogue de référence
